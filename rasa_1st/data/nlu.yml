@@ -90,3 +90,42 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+
+
+- intent: request_weather
+  examples: |
+      - 查天气
+      - [明天](date)什么天气
+      - 查一下[明天](date)[南京](address)什么天气
+      - 查一下[南京](address)[后天](date)什么天气
+      - 查一下[周末](date)的天气
+      - [明天](date)下雨吗？
+      - [周末](date)下雨吗？
+      - [明天](date)气温如何？
+      - [明天](date)冷吗？
+      - [周末](date)冷吗？
+
+
+- intent: inform
+  examples: |
+    - [南京](address)
+    - [上海](address)
+    - [北京](address)
+    - [黄山市](address)
+    - [歙县](address)
+    - [明天](date)天气
+    - [后天](date)天气
+    - [周末](date)天气
+    - 查一下[明天](date)天气
+    - 查一下[后天](date)天气
+    - 查一下[周末](date)天气
+    - [歙县](address)天气
+    - [南京](address)[明天]天气
+    - [明天](date)不冷
+    - [明天](date)[晴天](weather_stt)
+    - [明天](date)[下雨](weather_stt)
+    - [晴天](date)(weather_stt)
+    - [不冷](weather_stt)
+    - [暖和](weather_stt)
+

@@ -1,0 +1,278 @@
+[
+  {
+    "text": "\u660e\u5929\u4ec0\u4e48\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u660e\u5929\u5357\u4eac\u4ec0\u4e48\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "\u5357\u4eac",
+        "entity": "address"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u5357\u4eac\u540e\u5929\u4ec0\u4e48\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u5357\u4eac",
+        "entity": "address"
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "value": "\u540e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u5468\u672b\u7684\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u5468\u672b",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u4e0b\u96e8\u5417\uff1f",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u5468\u672b\u4e0b\u96e8\u5417\uff1f",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u5468\u672b",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u6c14\u6e29\u5982\u4f55\uff1f",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u51b7\u5417\uff1f",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u5468\u672b\u51b7\u5417\uff1f",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u5468\u672b",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u540e\u5929\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u540e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u5468\u672b\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u5468\u672b",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u660e\u5929\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u540e\u5929\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u540e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u67e5\u4e00\u4e0b\u5468\u672b\u5929\u6c14",
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "value": "\u5468\u672b",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u6b59\u53bf\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u6b59\u53bf",
+        "entity": "address"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u5357\u4eac[\u660e\u5929]\u5929\u6c14",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u5357\u4eac",
+        "entity": "address"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u4e0d\u51b7",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u6674\u5929",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "\u6674\u5929",
+        "entity": "weather_stt"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u660e\u5929\u4e0b\u96e8",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u660e\u5929",
+        "entity": "date"
+      },
+      {
+        "start": 2,
+        "end": 4,
+        "value": "\u4e0b\u96e8",
+        "entity": "weather_stt"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "\u6674\u5929(weather_stt)",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "\u6674\u5929",
+        "entity": "date"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

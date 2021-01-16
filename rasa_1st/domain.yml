@@ -9,6 +9,8 @@ intents:
 - mood_great
 - mood_unhappy
 - bot_challenge
+- request_weather
+- inform
 responses:
   utter_greet:
   - text: Hey! How are you?
@@ -23,3 +25,8 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
+
+  utter_ask_date_time:
+  - text: 请问您要查询哪一天的天气？
+  utter_ask_address:
+  - text: 请问您要查下哪里的天气？
